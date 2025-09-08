@@ -45,7 +45,7 @@ O arquivo `suspected_outliers_and_extremes.csv` contém as linhas do dataset que
 Esse material serve como **evidência** dos cenários incomuns de rendimento e pode apoiar decisões futuras da fazenda, como investigar condições climáticas anômalas ou problemas pontuais no solo.
 
 ## 🎥 Demonstração em Vídeo
-➡ [Link para o vídeo no YouTube](COLOQUE_AQUI_SEU_LINK) *(modo não listado)*
+➡ [Link para o vídeo no YouTube](placeholder) *(modo não listado)*
 
 ## Conclusões
 - Foram identificadas **tendências claras** nos rendimentos com base em clima e solo.  
